@@ -35,8 +35,7 @@ author_profile: true
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <!-- TODO: replace with a project image/GIF -->
-        <img src="/images/500x300.png" alt="Overconstrained wheel-legged robot locomotion">
+        <iframe src="https://www.youtube.com/embed/Eo61SRFhBaw?si=xcGOvXG11zUNG5jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;height:100%;display:block;"></iframe>
     </div>
     <div class="image-description">
         <h3>Overconstrained 4-Bar Linkages as Robot Limbs in Locomotion</h3>
