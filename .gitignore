@@ -12,6 +12,11 @@ Gemfile.lock
 node_modules
 package-lock.json
 
-vendor
+# Ignore bundler's gem directory at the repo root only
+# (a bare "vendor" pattern would wrongly ignore _sass/vendor/, which the
+# stylesheet build needs)
+/vendor/
+.bundle/
+
 # macOS
 .DS_Store
