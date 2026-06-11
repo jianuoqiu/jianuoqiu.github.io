@@ -8,12 +8,19 @@ redirect_from:
 ---
 
 <style>
+  /* Uniform vertical rhythm: every section heading gets the same gap
+     above and below, instead of inheriting whatever the previous
+     element's margin happened to be. */
+  .page__content h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
   .education-table {
     width: 103%;
     border: none;
     border-collapse: collapse;
     font-size: 1.0em;
-    margin-top: 20px;
+    margin-top: 0;
   }
   .education-table td {
     padding: 0;
@@ -26,7 +33,7 @@ redirect_from:
   }
 </style>
 
-<table class="education-table">
+<table class="education-table" style="margin-top: 16px;">
   <tr>
     <td>
     I’m a first-year M.S. student in Robotics at Georgia Tech, starting in Fall 2025. I received my B.Eng. in Robotics Engineering from the Southern University of Science and Technology (SUSTech) in June 2025. My research interests focus on robot learning for dexterous manipulation, including imitation learning and sim-to-real skill acquisition from human videos.
@@ -114,7 +121,7 @@ Publications
     border: none;
     border-collapse: collapse;
     font-size: 1.0em;
-    margin-top: 10px;
+    margin-top: 0;
   }
   .honor-table td {
     padding: 5px 10px;
