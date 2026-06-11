@@ -23,8 +23,7 @@ author_profile: true
 
 <div class="image-text-wrapper">
     <div class="video-container">
-        <!-- TODO: replace with a project image/GIF -->
-        <img src="/images/500x300.png" alt="Flapping-wing robot with spherical linkage wings" style="width:100%;height:100%;object-fit:cover;">
+        <img src="/images/flapping.png" alt="Flapping-wing robot with spherical linkage wings" style="width:100%;height:100%;object-fit:contain;">
     </div>
     <div class="image-description">
         <h3>Spherical Linkages as Limbs in Flapping-Wing Robots</h3>
@@ -63,8 +62,7 @@ author_profile: true
 
 <div class="image-text-wrapper">
     <div class="video-container">
-        <!-- TODO: replace with a project image/GIF -->
-        <img src="/images/500x300.png" alt="Kunyi underwater reconfigurable robot" style="width:100%;height:100%;object-fit:cover;">
+        <img src="/images/kunyi.png" alt="Kunyi underwater reconfigurable robot" style="width:100%;height:100%;object-fit:contain;">
     </div>
     <div class="image-description">
         <h3>'Kunyi' - Underwater Reconfigurable Robot</h3>
