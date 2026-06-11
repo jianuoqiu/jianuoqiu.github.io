@@ -9,7 +9,7 @@ Personal academic website of Jianuo Qiu, built with the [Academic Pages](https:/
 - `_data/navigation.yml` — header links
 - `_config.yml` — name, contact info, sidebar links
 - `files/cv.pdf` — the CV linked in the header
-- `images/profile.svg` — profile photo placeholder (replace with a real photo and update `author.avatar` in `_config.yml`)
+- `images/jianuoqiu.jpg` — profile photo (`author.avatar` in `_config.yml`)
 
 ## Running locally
 

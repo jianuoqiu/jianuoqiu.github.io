@@ -21,7 +21,7 @@ repository               : "jianuoqiu/jianuoqiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.svg"
+  avatar           : "images/jianuoqiu.jpg"
   name             : "Jianuo Qiu"
   pronouns         : # example: "she/her"
   bio              : "M.S. Student in Robotics"
