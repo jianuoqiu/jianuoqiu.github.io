@@ -10,11 +10,10 @@ author_profile: true
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <!-- TODO: replace with a project image/GIF -->
-        <img src="/images/500x300.png" alt="Video2Sim2Real on a Kinova Gen3 arm with a LEAP Hand">
+        <img src="/images/video2sim2real.png" alt="Video2Sim2Real on a Kinova Gen3 arm with a LEAP Hand" style="height:100%;object-fit:contain;">
     </div>
     <div class="image-description">
-        <h3>Video2Sim2Real: Dexterous Skills from a Single Human Video</h3>
+        <h3>Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
         <a href="https://video2sim2real.github.io/" target="_blank">[website]</a>
         <a href="https://arxiv.org/abs/2606.08828" target="_blank">[arXiv]</a>
         <p class="post-description">Georgia Tech, Dec 2025 - Jun 2026 · Co-first author.</p>
@@ -42,6 +41,7 @@ author_profile: true
     <div class="image-description">
         <h3>Overconstrained 4-Bar Linkages as Robot Limbs in Locomotion</h3>
         <a href="https://ancorasir.github.io/BennettWheelLegRL/" target="_blank">[website]</a>
+        <a href="https://ieeexplore.ieee.org/document/10618090" target="_blank">[paper]</a>
         <p class="post-description">SUSTech, Nov 2023 - Apr 2024 · Published at ReMAR 2024.</p>
         <p class="post-description">Trained wheel-legged locomotion with deep RL in Isaac Gym across diverse terrains; overconstrained limbs cut energy use by 22-31% versus planar limbs.</p>
     </div>
@@ -49,8 +49,7 @@ author_profile: true
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <!-- TODO: replace with a project image/GIF -->
-        <img src="/images/500x300.png" alt="Underwater superlimb intention recognition">
+        <img src="/images/multimodel.jpg" alt="Underwater superlimb intention recognition">
     </div>
     <div class="image-description">
         <h3>Multimodal Intention Recognition for Underwater Superlimbs</h3>

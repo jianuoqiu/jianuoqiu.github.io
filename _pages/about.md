@@ -67,7 +67,7 @@ Publications
         <!-- TODO: replace with the official teaser video once available, e.g.:
         <iframe src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         -->
-        <img src="/images/500x300.png" alt="Video2Sim2Real" style="width:100%;height:100%;object-fit:cover;">
+        <img src="/images/video2sim2real.png" alt="Video2Sim2Real" style="width:100%;height:100%;object-fit:contain;">
     </div>
     <div class="video-description">
         <h3>Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
@@ -83,7 +83,7 @@ Publications
 <div class="video-text-wrapper">
     <div class="video-container">
         <!-- TODO: replace with the official teaser video once available -->
-        <img src="/images/500x300.png" alt="Underwater Superlimbs" style="width:100%;height:100%;object-fit:cover;">
+        <img src="/images/multimodel.jpg" alt="Underwater Superlimbs" style="width:100%;height:100%;object-fit:cover;">
     </div>
     <div class="video-description">
         <h3>Multimodal Intention Recognition Combining Head Motion and Throat Vibration for Underwater Superlimbs</h3>
@@ -102,6 +102,7 @@ Publications
     <div class="video-description">
         <h3>Evolutionary Morphology Towards Overconstrained Locomotion via Large-Scale, Multi-Terrain Deep Reinforcement Learning</h3>
         <a href="https://ancorasir.github.io/BennettWheelLegRL/" target="_blank">[website]</a>
+        <a href="https://ieeexplore.ieee.org/document/10618090" target="_blank">[paper]</a>
         <p>Yenan Chen*, Chuye Zhang*, Pengxi Gu*, <strong>Jianuo Qiu</strong>, et al. <br>
         <i>ReMAR 2024</i>, Chicago, USA. </p>
     </div>
