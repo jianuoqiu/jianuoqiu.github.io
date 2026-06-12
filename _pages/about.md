@@ -36,7 +36,7 @@ redirect_from:
 <table class="education-table" style="margin-top: 24px;">
   <tr>
     <td>
-    I am a first-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025 and worked with Professor Chaoyang Song in the BionicDL Lab starting in 2022. My research focuses on robot learning for dexterous manipulation, especially imitation learning and sim-to-real skill acquisition from human videos.
+    I am a first-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025 and worked with Professor Chaoyang Song in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022. My research focuses on robot learning for dexterous manipulation, especially imitation learning and sim-to-real skill acquisition from human videos.
     </td>
   </tr>
 </table>
