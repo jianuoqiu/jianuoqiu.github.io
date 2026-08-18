@@ -4,10 +4,11 @@ Personal academic website of Jianuo Qiu, built with the [Academic Pages](https:/
 
 ## Editing content
 
-- `_pages/about.md` — homepage (bio, education, publications, awards)
+- `_pages/about.md` — homepage (bio, education, publications)
 - `_pages/projects.md` — projects page
 - `_data/navigation.yml` — header links
 - `_config.yml` — name, contact info, sidebar links
+- `_sass/_custom.scss` — all site-specific styling (colours for light/dark mode, masthead, sidebar, publication cards)
 - `files/cv.pdf` — the CV linked in the header
 - `images/jianuoqiu.jpg` — profile photo (`author.avatar` in `_config.yml`)
 
