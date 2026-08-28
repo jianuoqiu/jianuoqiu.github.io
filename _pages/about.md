@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <p class="intro">
-I am a first-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025 and work with Professor Harish Ravichandar in the <a href="https://star-lab.cc.gatech.edu/" target="_blank">STAR Lab</a>. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025, where I worked with Professor Chaoyang Song in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022. My research interests lie in robot learning and dexterous manipulation, with a focus on enabling robots to acquire complex manipulation skills from human demonstrations and transfer them reliably to real-world settings.
+I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025 and work with Professor Harish Ravichandar in the <a href="https://star-lab.cc.gatech.edu/" target="_blank">STAR Lab</a>. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025, where I worked with Professor Chaoyang Song in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022. My research interests lie in robot learning and dexterous manipulation, with a focus on enabling robots to acquire complex manipulation skills from human demonstrations and transfer them reliably to real-world settings.
 </p>
 
 ## Education
 
-<ul class="edu">
+<ul class="edu" role="list">
   <li class="edu__item">
     <div>
       <span class="edu__school">Georgia Institute of Technology</span>
@@ -51,8 +51,9 @@ I am a first-year M.S. Robotics student at Georgia Tech, where I began in Fall 2
 
 <div class="pub">
   <div class="pub__media">
-    <video controls preload="metadata" poster="/images/multimodel.jpg">
+    <video controls preload="metadata" poster="/images/multimodel.jpg" aria-label="Multimodal intention recognition for underwater superlimbs — video">
       <source src="/videos/multimodal-underwater-v2.mp4" type="video/mp4">
+      Your browser does not support embedded video. <a href="/videos/multimodal-underwater-v2.mp4">Download the video</a>.
     </video>
   </div>
   <div class="pub__body">
