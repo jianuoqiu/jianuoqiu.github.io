@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 <p class="intro">
-I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025 and work with Professor Harish Ravichandar in the <a href="https://star-lab.cc.gatech.edu/" target="_blank">STAR Lab</a>. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025, where I worked with Professor Chaoyang Song in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022. My research interests lie in robot learning and dexterous manipulation, with a focus on enabling robots to acquire complex manipulation skills from human demonstrations and transfer them reliably to real-world settings.
+I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025 and work with Professor Harish Ravichandar in the <a href="https://star-lab.cc.gatech.edu/" target="_blank">STAR Lab</a>. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025, where I worked with Professor Chaoyang Song in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022.
+</p>
+
+<p class="intro">
+My research interests lie in robot learning and dexterous manipulation, with a focus on enabling robots to acquire complex manipulation skills from human demonstrations and transfer them reliably to real-world settings.
 </p>
 
 ## Education
