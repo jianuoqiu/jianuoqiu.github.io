@@ -36,7 +36,10 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
 
 <div class="pub">
   <div class="pub__media">
-    <iframe src="https://www.youtube.com/embed/ig2a1rXIr0I" title="Video2Sim2Real video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <video autoplay muted loop playsinline controls poster="/images/v2s2r-poster.jpg" aria-label="Video2Sim2Real — video">
+      <source src="/videos/v2s2r.mp4" type="video/mp4">
+      Your browser does not support embedded video. <a href="/videos/v2s2r.mp4">Download the video</a>.
+    </video>
   </div>
   <div class="pub__body">
     <h3 class="pub__title">Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
@@ -51,9 +54,9 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
 
 <div class="pub">
   <div class="pub__media">
-    <video controls preload="metadata" poster="/images/multimodel.jpg" aria-label="Multimodal intention recognition for underwater superlimbs — video">
-      <source src="/videos/multimodal-underwater-v2.mp4" type="video/mp4">
-      Your browser does not support embedded video. <a href="/videos/multimodal-underwater-v2.mp4">Download the video</a>.
+    <video autoplay muted loop playsinline controls poster="/images/multimodel.jpg" aria-label="Multimodal intention recognition for underwater superlimbs — video">
+      <source src="/videos/multimodal-underwater.mp4" type="video/mp4">
+      Your browser does not support embedded video. <a href="/videos/multimodal-underwater.mp4">Download the video</a>.
     </video>
   </div>
   <div class="pub__body">
@@ -69,7 +72,10 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
 
 <div class="pub">
   <div class="pub__media">
-    <iframe src="https://www.youtube.com/embed/Eo61SRFhBaw?si=xcGOvXG11zUNG5jl" title="Overconstrained locomotion video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <video autoplay muted loop playsinline controls poster="/images/overconstrained-locomotion-poster.jpg" aria-label="Overconstrained locomotion — video">
+      <source src="/videos/overconstrained-locomotion.mp4" type="video/mp4">
+      Your browser does not support embedded video. <a href="/videos/overconstrained-locomotion.mp4">Download the video</a>.
+    </video>
   </div>
   <div class="pub__body">
     <h3 class="pub__title">Evolutionary Morphology Towards Overconstrained Locomotion via Large-Scale, Multi-Terrain Deep Reinforcement Learning</h3>

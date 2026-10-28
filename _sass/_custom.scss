@@ -502,9 +502,9 @@ hr {
     gap: 1.75rem;
   }
 
-  /* On pages where the list follows the page title directly (Projects),
-     give it a little more air than the inter-card gap */
-  > .pub-list:first-child {
+  /* A section heading that directly follows the page title (Projects)
+     doesn't need the full inter-section gap */
+  > h2:first-child {
     margin-top: 1.5rem;
   }
 
@@ -524,6 +524,7 @@ hr {
     background: var(--surface);
     border: 1px solid var(--border);
 
+    > a,
     iframe,
     video,
     img {
@@ -532,10 +533,6 @@ hr {
       height: 100%;
       border: 0;
       object-fit: contain;
-    }
-
-    video {
-      background: #000;
     }
   }
 
@@ -550,8 +547,6 @@ hr {
     }
   }
 
-  /* h3 on the home page (under an h2 section), h2 on the Projects page
-     (directly under the h1) — same look either way */
   .pub__title {
     margin: 0;
     padding: 0;
@@ -561,6 +556,15 @@ hr {
     letter-spacing: 0;
     line-height: 1.35;
     color: var(--heading);
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 
   .pub__authors {
@@ -612,6 +616,30 @@ hr {
       }
     }
   }
+
+  /*
+     Project detail pages
+     ----------------------------------------------------------------------- */
+
+  .project-back {
+    font-size: 0.9em;
+  }
+
+  .project-fig {
+    width: 60%;
+    margin: 1.25rem auto 1.5rem;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: var(--radius);
+    }
+  }
+
+  .project-fig--wide {
+    width: 90%;
+  }
 }
 
 /* Between the large and x-large breakpoints the theme's 925px container
@@ -635,6 +663,11 @@ hr {
       flex-basis: auto;
       width: 100%;
       max-width: 420px;
+    }
+
+    .project-fig,
+    .project-fig--wide {
+      width: 100%;
     }
   }
 }
