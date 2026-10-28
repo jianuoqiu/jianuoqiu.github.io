@@ -43,7 +43,7 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
   </div>
   <div class="pub__body">
     <h3 class="pub__title">Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
-    <p class="pub__authors">Yunhai Han*, <strong>Jianuo Qiu</strong>*, ..., Matthew Gombolay, Zsolt Kira, Harish Ravichandar</p>
+    <p class="pub__authors">Yunhai Han*, <strong>Jianuo Qiu</strong>*, Linhao Bai, Ziyu Xiao, Zihang Zeng, Yangcen Liu, Zhaodong Yang, Shalin Jain, Wenrui Ma, Jiaqi Fu, Yuqian Zheng, Manisha Natarajan, Muhammad Zubair Irshad, Kenneth Shaw, Matthew Gombolay, Zsolt Kira, Harish Ravichandar</p>
     <p class="pub__venue">arXiv preprint, 2026</p>
     <p class="pub__links">
       <a href="https://video2sim2real.github.io/" target="_blank">Website</a>
@@ -79,7 +79,7 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
   </div>
   <div class="pub__body">
     <h3 class="pub__title">Evolutionary Morphology Towards Overconstrained Locomotion via Large-Scale, Multi-Terrain Deep Reinforcement Learning</h3>
-    <p class="pub__authors">Yenan Chen*, Chuye Zhang*, Pengxi Gu*, <strong>Jianuo Qiu</strong>, ..., Wei Zhang, Fang Wan, Chaoyang Song</p>
+    <p class="pub__authors">Yenan Chen*, Chuye Zhang*, Pengxi Gu*, <strong>Jianuo Qiu</strong>, Jiayi Yin, Nuofan Qiu, Guojing Huang, Bangchao Huang, Zishang Zhang, Hui Deng, Wei Zhang, Fang Wan, Chaoyang Song</p>
     <p class="pub__venue">ReMAR 2024, Chicago, USA</p>
     <p class="pub__links">
       <a href="https://ancorasir.github.io/BennettWheelLegRL/" target="_blank">Website</a>
