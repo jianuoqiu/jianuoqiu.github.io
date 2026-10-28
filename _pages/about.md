@@ -15,22 +15,12 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
 My research interests lie in robot learning and dexterous manipulation, with a focus on enabling robots to acquire complex manipulation skills from human demonstrations and transfer them reliably to real-world settings.
 </p>
 
-## Education
+## News
 
-<ul class="edu" role="list">
-  <li class="edu__item">
-    <div>
-      <span class="edu__school">Georgia Institute of Technology</span>
-      <span class="edu__degree"><em>Master of Science in Robotics</em> · GPA <strong>4.0/4.0</strong></span>
-    </div>
-    <span class="edu__date">Aug 2025 – Present</span>
-  </li>
-  <li class="edu__item">
-    <div>
-      <span class="edu__school">Southern University of Science and Technology (SUSTech)</span>
-      <span class="edu__degree"><em>Bachelor of Engineering in Robotics Engineering</em> · Major GPA <strong>3.84/4.0</strong></span>
-    </div>
-    <span class="edu__date">Aug 2021 – Jun 2025</span>
+<ul class="news" role="list">
+  <li class="news__item">
+    <span class="news__date">Oct 2026</span>
+    <span class="news__text"><a href="https://video2sim2real.github.io/" target="_blank">Video2Sim2Real</a> was selected for an oral spotlight and poster presentation at the CoRL 2026 Dexterous Manipulation Workshop!</span>
   </li>
 </ul>
 
@@ -49,6 +39,7 @@ My research interests lie in robot learning and dexterous manipulation, with a f
     <h3 class="pub__title">Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
     <p class="pub__authors">Yunhai Han*, <strong>Jianuo Qiu</strong>*, Linhao Bai, Ziyu Xiao, Zihang Zeng, Yangcen Liu, Zhaodong Yang, Shalin Jain, Wenrui Ma, Jiaqi Fu, Yuqian Zheng, Manisha Natarajan, Muhammad Zubair Irshad, Kenneth Shaw, Matthew Gombolay, Zsolt Kira, Harish Ravichandar</p>
     <p class="pub__venue">arXiv preprint, 2026</p>
+    <p class="pub__venue">CoRL 2026 Workshop (Dex-CoRL-26) — Selected Oral &amp; Poster</p>
     <p class="pub__links">
       <a href="https://video2sim2real.github.io/" target="_blank">Website</a>
       <a href="https://arxiv.org/abs/2606.08828" target="_blank">arXiv</a>
@@ -93,3 +84,22 @@ My research interests lie in robot learning and dexterous manipulation, with a f
 </div>
 
 </div>
+
+## Education
+
+<ul class="edu" role="list">
+  <li class="edu__item">
+    <div>
+      <span class="edu__school">Georgia Institute of Technology</span>
+      <span class="edu__degree"><em>Master of Science in Robotics</em> · GPA <strong>4.0/4.0</strong></span>
+    </div>
+    <span class="edu__date">Aug 2025 – May 2027 (Expected)</span>
+  </li>
+  <li class="edu__item">
+    <div>
+      <span class="edu__school">Southern University of Science and Technology (SUSTech)</span>
+      <span class="edu__degree"><em>Bachelor of Engineering in Robotics Engineering</em> · Major GPA <strong>3.84/4.0</strong></span>
+    </div>
+    <span class="edu__date">Aug 2021 – Jun 2025</span>
+  </li>
+</ul>
