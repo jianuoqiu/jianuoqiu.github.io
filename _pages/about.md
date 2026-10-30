@@ -20,7 +20,7 @@ My research interests lie in robot learning and dexterous manipulation, with a f
 <ul class="news" role="list">
   <li class="news__item">
     <span class="news__date">Oct 2026</span>
-    <span class="news__text"><a href="https://video2sim2real.github.io/" target="_blank">Video2Sim2Real</a> was selected for an oral spotlight and poster presentation at the CoRL 2026 Dexterous Manipulation Workshop!</span>
+    <span class="news__text">🎉 <a href="https://video2sim2real.github.io/" target="_blank">Video2Sim2Real</a> was selected for an oral spotlight and poster presentation at the CoRL 2026 Dexterous Manipulation Workshop!</span>
   </li>
 </ul>
 
@@ -39,7 +39,7 @@ My research interests lie in robot learning and dexterous manipulation, with a f
     <h3 class="pub__title">Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
     <p class="pub__authors">Yunhai Han*, <strong>Jianuo Qiu</strong>*, Linhao Bai, Ziyu Xiao, Zihang Zeng, Yangcen Liu, Zhaodong Yang, Shalin Jain, Wenrui Ma, Jiaqi Fu, Yuqian Zheng, Manisha Natarajan, Muhammad Zubair Irshad, Kenneth Shaw, Matthew Gombolay, Zsolt Kira, Harish Ravichandar</p>
     <p class="pub__venue">arXiv preprint, 2026</p>
-    <p class="pub__venue">CoRL 2026 Workshop (Dex-CoRL-26) — Selected Oral &amp; Poster</p>
+    <p class="pub__venue">CoRL 2026 Workshop (Dex-CoRL-26) — <span class="pub__award">🏅 Selected Oral &amp; Poster</span></p>
     <p class="pub__links">
       <a href="https://video2sim2real.github.io/" target="_blank">Website</a>
       <a href="https://arxiv.org/abs/2606.08828" target="_blank">arXiv</a>

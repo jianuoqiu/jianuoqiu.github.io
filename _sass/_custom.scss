@@ -613,6 +613,11 @@ hr {
     font-style: italic;
   }
 
+  /* Keep an award note on one line when the venue wraps */
+  .pub__award {
+    white-space: nowrap;
+  }
+
   .pub__desc {
     color: var(--text);
   }
