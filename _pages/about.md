@@ -15,6 +15,10 @@ I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 
 My research interests lie in robot learning and dexterous manipulation, with a focus on enabling robots to acquire complex manipulation skills from human demonstrations and transfer them reliably to real-world settings.
 </p>
 
+<p class="intro">
+<strong>I am looking for Fall 2027 Ph.D. opportunities.</strong>
+</p>
+
 ## News
 
 <ul class="news" role="list">
