@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p class="intro">
-I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025 and work with Professor Harish Ravichandar in the <a href="https://star-lab.cc.gatech.edu/" target="_blank">STAR Lab</a>. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025, where I worked with Professor Chaoyang Song in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022.
+I am a second-year M.S. Robotics student at Georgia Tech, where I began in Fall 2025 and work with Professor <a href="https://harishravichandar.com/" target="_blank">Harish Ravichandar</a> in the <a href="https://star-lab.cc.gatech.edu/" target="_blank">STAR Lab</a>. I am also mentored by Ph.D. student <a href="https://y8han.github.io/" target="_blank">Yunhai Han</a>. Before that, I received my B.Eng. in Robotics Engineering from SUSTech in June 2025, where I worked with Professor <a href="https://mbzuai.ac.ae/academics/faculty-directory/chaoyang-song" target="_blank">Chaoyang Song</a> in the <a href="https://bionicdl.ancorasir.com/" target="_blank">BionicDL Lab</a> starting in 2022.
 </p>
 
 <p class="intro">
